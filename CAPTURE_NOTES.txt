@@ -1,10 +1,6 @@
-Before = mocked current gap: Team chrome with Team/Feed/Film only (no Photos tab).
-         Film = link cards. Matches live pattern on youth-sports-app-navy Film tab.
-After  = HTML frames (frames/*.html), brand tokens Miami Hoops navy #011441 /
-         orange #ef6908 / canvas #f7f8fa / Inter+Anton. Captured with
-         playwright-core + system Chrome at deviceScaleFactor 2.
-Viewports: phone 390x844, iPad 820x1180, desktop 1440x900.
-Photo tiles = CSS gradients + jersey numbers / initials / ball dots. NO real faces.
-Refero locks copied into refs/ (see refs/README.md).
-LOOK only — no youth-sports-app edits, no Mailbox work.
-Captured 2026-08-29.
+Before = current gap on neon YSP chrome: Team/Feed/Film only (no Photos tab). Film = link cards.
+After  = neon Miami Hoops frames (DESIGN.md tokens). Captured with headless Chrome.
+Viewports: phone 390x844, iPad 820x1180, desktop 1440x900. device-scale-factor 2 when available.
+Photo tiles = CSS gradients + jersey numbers / initials / ball dots. NO real kids' faces.
+Refero locks in refs/ (see refs/README.md). Mercury labeled CRAFT ONLY.
+LOOK only — no youth-sports-app edits. Heather rebuild 2026-08-29.
