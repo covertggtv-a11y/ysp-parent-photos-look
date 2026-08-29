@@ -1,12 +1,12 @@
 # LOOK STATUS — YSP Parent team photos (privacy-first)
 
 **LOOK ONLY.** No production code, no youth-sports-app repo edits, no Mailbox work,
-no face-AI vendor, nothing merged or deployed.
+no face-AI vendor, nothing merged or deployed to the app.
 
 ## Three-way delivery
 1. **Sheet + enlargeable PNGs** — `/workspace/ysp-parent-photos-look/sheet.html` (+ `shots/`)
 2. **Zip** — `/workspace/YSP-parent-photos-LOOK.zip`
-3. **Hosted** — see *Hosting* below.
+3. **Hosted** — **https://covertggtv-a11y.github.io/ysp-parent-photos-look/**
 
 ## Delta
 Parents want game/team photos on-platform without putting kids on the open web.
@@ -25,4 +25,5 @@ This LOOK proposes a **team vault** (roster parents + coaches only) with:
 4. Approval → **Hybrid hold for Ask/Never; Allow posts through**
 
 ## Hosting
-Pending `gh` auth / create+Pages in this session — updated below after attempt.
+- Repo: https://github.com/covertggtv-a11y/ysp-parent-photos-look (public, `main`)
+- Hosted: **https://covertggtv-a11y.github.io/ysp-parent-photos-look/** (Pages from `/`, 200 OK)
